@@ -15,7 +15,7 @@ public class HomePage {
 	
 	public void search() throws InterruptedException{
 		//Thread.sleep(5000);
-		search_Element = driver.findElement(By.xpath(".//input[@id='global-search']"));
+		search_Element = driver.findElement(By.xpath(".//_666input[@id='global-search']"));
 		search_Element.sendKeys("jackets");
 	}
 	
