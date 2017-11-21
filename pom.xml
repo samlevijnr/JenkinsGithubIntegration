@@ -23,7 +23,7 @@
 				<version>2.19.1</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>SerachProduct.xml</suiteXmlFile>
+						<suiteXmlFile>6_SerachProduct.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
